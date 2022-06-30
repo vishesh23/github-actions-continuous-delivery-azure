@@ -13,7 +13,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: vishesh23-ttt-app
+  AZURE_WEBAPP_NAME: vishesh23
   #################################################
 
 jobs:
